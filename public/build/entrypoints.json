@@ -1,0 +1,19 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors-node_modules_react-dom_client_js-node_modules_regenerator-runtime_runtime_js-node_mod-e4f73f.js",
+        "/build/app.js"
+      ]
+    },
+    "style": {
+      "js": [
+        "/build/runtime.js"
+      ],
+      "css": [
+        "/build/style.css"
+      ]
+    }
+  }
+}
